@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sabco</string>
+    <string name="toolbarTitle">سیروان نویگیشن</string>
+    <string name="phone_number_hint">09*********</string>
+</resources>
